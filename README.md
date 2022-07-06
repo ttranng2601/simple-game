@@ -1,4 +1,4 @@
-A simple python guessing game
+# A simple python guessing game
 The game goes like this:
 
 1. The computer will think of 3 digit number that has no repeating digits.
